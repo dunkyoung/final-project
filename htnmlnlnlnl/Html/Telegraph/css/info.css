@@ -1,0 +1,27 @@
+.info {
+	display: flex;
+	align-items: center;
+	margin-top: 151px;
+}
+
+.info-content {
+	width: 466px;
+}
+
+.info-title {
+	margin-bottom: 30px;
+	color: #00194a;
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 50px;
+}
+
+.info-text {
+	color: #00194a;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 28px;
+	opacity: 0.8;
+}

@@ -1,0 +1,11 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 0px;
+}
+
+.header-logo {
+	color: #ff0043;
+	font-size: 20px;
+	font-weight: 700;
+}
